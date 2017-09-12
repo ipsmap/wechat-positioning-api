@@ -1,0 +1,40 @@
+**应用场景 S2 - 开启某场域地图并提供位置服务**
+----
+  本URL为**道易寻微信导航服务**网址，提供用户在微信下开启本URL后进行某场域的地图与导航服务。通常本URL会放在医院的微信菜单内。方便终端用户查找相关地理信息并进行导航。
+
+* **URL**
+
+  https://map.ipsmap.com/#/map?id=MAP_ID
+
+* **Method:**
+  
+  `GET`
+  
+*  **URL Params**
+
+
+   **Required:**
+ 
+   `MAP_ID=[alphanumeric]`  医院地图的id，如广妇儿医院的id为 `lGaWCUtqoj`
+   
+   **Option:**
+   
+   其他参数不在本页面介绍，可参考对应业务功能的API介绍网址来查看其他参数介绍。
+   
+* **Success Response:**
+  
+   用户开启网页成功后，即可使用道一循提供的地图导航服务。
+
+ 
+* **Error Response:**
+
+   用户开启网页失败。
+
+
+* **Sample Call:**
+
+   https://map.ipsmap.com/#/map?id=lGaWCUtqoj
+
+* **Notes:**
+
+   无
