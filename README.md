@@ -14,7 +14,7 @@
 **[应用场景 S3](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%20S3.md)** 
  * 当用户到达目的地附近时回调服务方指定网址（可设定是否出现导航页面）
 
-**应用场景 S4** 
+**[应用场景 S4](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%20S4.md)** 
  * 当获取到用户位置后，将用户所在楼层、经纬度、所在区域..等位置资讯回传至服务方指定网址
  
 
