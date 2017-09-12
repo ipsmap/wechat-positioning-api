@@ -11,7 +11,7 @@
 **[应用场景 S2](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%20S2.md)** 
  * 开启某场域地图并带有目的地导航
 
-**应用场景 S3** 
+**[应用场景 S3](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%20S3.md)** 
  * 开启某场域地图并带有目的地导航，离目的地某段距离内，回调服务方指定网址
 
 **应用场景 S4** 
