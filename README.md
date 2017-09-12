@@ -1,3 +1,4 @@
+![logo](https://github.com/ipsmap/wechat-positioning-api/blob/master/logo.jpg "Logo")
 # 道一循微信定位API接口说明文件
 
 服务应用方使用道一循微信位置服务，可根据以下场景生成道一循跳转网页，实现所需业务功能。
