@@ -20,6 +20,8 @@
 
 ## 流程图
 
+![流程图](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BE%AE%E4%BF%A1API%E6%B5%81%E7%A8%8B%E5%9B%BE.png "Logo")
+
 
 ## 开通微信导航整合服务
 
