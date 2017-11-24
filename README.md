@@ -16,6 +16,9 @@
 
 **[应用场景 S4](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%20S4.md)** 
  * 当获取到用户位置后，将用户所在楼层、经纬度、所在区域..等位置资讯回传至服务方指定网址
+
+**[应用场景 S5](https://github.com/ipsmap/wechat-positioning-api/blob/master/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%20S5.md)** 
+ * 机器人或显示屏固定位置导航路径展示
  
 
 ## 流程图
